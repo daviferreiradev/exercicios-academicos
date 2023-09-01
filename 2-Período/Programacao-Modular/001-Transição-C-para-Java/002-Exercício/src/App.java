@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        int tamanhoVetor = 5;
+        int tamanhoVetor = 10;
         int numPares = 0, numImpares = 0;
         int[] vetA = new int[tamanhoVetor];
         int[] parImpar = new int[2];

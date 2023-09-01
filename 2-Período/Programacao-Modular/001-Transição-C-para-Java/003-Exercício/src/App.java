@@ -48,7 +48,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
 
-        int numFuncionarios = 4;
+        int numFuncionarios = 2;
         int numSexoMasculino = 0, numSexoFeminino = 0;
         Funcionarios[] funcionarios = new Funcionarios[numFuncionarios];
         for(int i = 0; i < numFuncionarios; i++) {
